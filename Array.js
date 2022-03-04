@@ -1,0 +1,12 @@
+var students = ['Arif', 'Mujahid', 'Prima', 'Shafique'];
+var number = [20, 30, 34, 17, 39, 41, 49];
+var totalStudents = students.length;
+var primaIndex = students.indexOf('Prima');
+var thirdPosition = number[3];
+number.push(60);
+number.pop();
+// console.log(students);
+console.log(number);
+// console.log(totalStudents);
+// console.log(primaIndex);
+// console.log(thirdPosition);
